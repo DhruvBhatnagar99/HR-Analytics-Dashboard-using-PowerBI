@@ -14,4 +14,4 @@ This Power BI project is dedicated to understanding employee attrition through v
 2. Interactive visualizations for easy exploration.
 3. Valuable information for HR professionals and decision-makers.
    
-By leveraging Power BI's capabilities, I aim to provide actionable insights that aid in managing and mitigating employee attrition. This project showcases my analytical skills while offering a valuable tool for workforce analysis and strategy.
+By leveraging Power BI's capabilities, I aim to provide actionable insights that aid in managing and mitigating employee attrition.
